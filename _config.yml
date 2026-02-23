@@ -84,7 +84,7 @@ exclude:
 ignore:
 
 # Extensions
-theme: landscape
+theme: fluid
 
 # Sitemap
 sitemap:
