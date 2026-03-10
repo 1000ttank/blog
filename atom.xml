@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>pigeonw</title>
+  
+  <subtitle>Powered by Hexo-NX-CMS</subtitle>
+  <link href="https://1000ttank.github.io/blog/atom.xml" rel="self"/>
+  
+  <link href="https://1000ttank.github.io/blog/"/>
+  <updated>2026-03-10T13:08:15.366Z</updated>
+  <id>https://1000ttank.github.io/blog/</id>
+  
+  <author>
+    <name>twyeottk</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>原来 Claude Code 还可以这么玩</title>
+    <link href="https://1000ttank.github.io/blog/2026/03/10/2026-03-10-claude-code/"/>
+    <id>https://1000ttank.github.io/blog/2026/03/10/2026-03-10-claude-code/</id>
+    <published>2026-03-10T05:08:03.000Z</published>
+    <updated>2026-03-10T13:08:15.366Z</updated>
+    
+    
+    <summary type="html">并行才是 Claude Code 的正确打开方式！</summary>
+    
+    
+    
+    
+    <category term="开发" scheme="https://1000ttank.github.io/blog/tags/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="Claude Code" scheme="https://1000ttank.github.io/blog/tags/Claude-Code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何在 code-server 上使用 CPH-NG 与 Competitive Companion</title>
+    <link href="https://1000ttank.github.io/blog/2026/02/24/2026-02-24-code-server-cph-ng-competitive-companion/"/>
+    <id>https://1000ttank.github.io/blog/2026/02/24/2026-02-24-code-server-cph-ng-competitive-companion/</id>
+    <published>2026-02-24T06:48:25.000Z</published>
+    <updated>2026-03-10T13:08:15.366Z</updated>
+    
+    
+    <summary type="html">如何在 code-server 上使用 CPH-NG 与 Competitive Companion</summary>
+    
+    
+    
+    <category term="科技·工程" scheme="https://1000ttank.github.io/blog/categories/%E7%A7%91%E6%8A%80%C2%B7%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="C++" scheme="https://1000ttank.github.io/blog/tags/C/"/>
+    
+    <category term="开发" scheme="https://1000ttank.github.io/blog/tags/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="内网转发" scheme="https://1000ttank.github.io/blog/tags/%E5%86%85%E7%BD%91%E8%BD%AC%E5%8F%91/"/>
+    
+  </entry>
+  
+</feed>

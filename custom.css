@@ -1,0 +1,6 @@
+/* font-family: 'LXGWWenKaiMonoGBScreen' */
+@font-face {
+  font-family: 'LXGWWenKaiMonoGBScreen';
+  src: url('/fonts/LXGWWenKaiMonoGBScreen.ttf') format('truetype');
+  font-display: swap;
+}
