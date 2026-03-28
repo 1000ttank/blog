@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>pigeonw</title>
+  
+  <subtitle>Powered by Hexo-NX-CMS</subtitle>
+  <link href="https://1000ttank.github.io/blog/atom.xml" rel="self"/>
+  
+  <link href="https://1000ttank.github.io/blog/"/>
+  <updated>2026-03-28T06:39:18.027Z</updated>
+  <id>https://1000ttank.github.io/blog/</id>
+  
+  <author>
+    <name>twyeottk</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>题解：AT_abc209_f [ABC209F] Deforestation</title>
+    <link href="https://1000ttank.github.io/blog/2026/03/27/2026-03-28-atabc209f-abc209f-deforestation/"/>
+    <id>https://1000ttank.github.io/blog/2026/03/27/2026-03-28-atabc209f-abc209f-deforestation/</id>
+    <published>2026-03-27T08:13:38.000Z</published>
+    <updated>2026-03-28T06:39:18.027Z</updated>
+    
+    
+    <summary type="html">题解：AT_abc209_f [ABC209F] Deforestation，或许讲了讲插入 DP。</summary>
+    
+    
+    
+    <category term="题解" scheme="https://1000ttank.github.io/blog/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="C++" scheme="https://1000ttank.github.io/blog/tags/C/"/>
+    
+    <category term="OI" scheme="https://1000ttank.github.io/blog/tags/OI/"/>
+    
+    <category term="动态规划" scheme="https://1000ttank.github.io/blog/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解：AT_abc276_g [ABC276G] Count Sequences</title>
+    <link href="https://1000ttank.github.io/blog/2026/03/19/2026-03-19-atabc276g-abc276g-count-sequences/"/>
+    <id>https://1000ttank.github.io/blog/2026/03/19/2026-03-19-atabc276g-abc276g-count-sequences/</id>
+    <published>2026-03-19T04:02:24.000Z</published>
+    <updated>2026-03-28T06:39:18.027Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;题目描述&quot;&gt;&lt;a href=&quot;#题目描述&quot; class=&quot;headerlink&quot; title=&quot;题目描述&quot;&gt;&lt;/a&gt;题目描述&lt;/h3&gt;&lt;p&gt;求满足以下条件的项数为 $N$ 的整数序列 $A&amp;#x3D;(a_1,a_2,&#92;ldots,a_N)$ 的个数，并将结果对</summary>
+        
+      
+    
+    
+    
+    <category term="题解" scheme="https://1000ttank.github.io/blog/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="C++" scheme="https://1000ttank.github.io/blog/tags/C/"/>
+    
+    <category term="Atcoder" scheme="https://1000ttank.github.io/blog/tags/Atcoder/"/>
+    
+    <category term="OI" scheme="https://1000ttank.github.io/blog/tags/OI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>原来 Claude Code 还可以这么玩</title>
+    <link href="https://1000ttank.github.io/blog/2026/03/10/2026-03-10-claude-code/"/>
+    <id>https://1000ttank.github.io/blog/2026/03/10/2026-03-10-claude-code/</id>
+    <published>2026-03-10T05:08:03.000Z</published>
+    <updated>2026-03-28T06:39:18.027Z</updated>
+    
+    
+    <summary type="html">并行才是 Claude Code 的正确打开方式！</summary>
+    
+    
+    
+    
+    <category term="开发" scheme="https://1000ttank.github.io/blog/tags/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="Claude Code" scheme="https://1000ttank.github.io/blog/tags/Claude-Code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何在 code-server 上使用 CPH-NG 与 Competitive Companion</title>
+    <link href="https://1000ttank.github.io/blog/2026/02/24/2026-02-24-code-server-cph-ng-competitive-companion/"/>
+    <id>https://1000ttank.github.io/blog/2026/02/24/2026-02-24-code-server-cph-ng-competitive-companion/</id>
+    <published>2026-02-24T06:48:25.000Z</published>
+    <updated>2026-03-28T06:39:18.027Z</updated>
+    
+    
+    <summary type="html">如何在 code-server 上使用 CPH-NG 与 Competitive Companion</summary>
+    
+    
+    
+    <category term="科技·工程" scheme="https://1000ttank.github.io/blog/categories/%E7%A7%91%E6%8A%80%C2%B7%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="C++" scheme="https://1000ttank.github.io/blog/tags/C/"/>
+    
+    <category term="开发" scheme="https://1000ttank.github.io/blog/tags/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="内网转发" scheme="https://1000ttank.github.io/blog/tags/%E5%86%85%E7%BD%91%E8%BD%AC%E5%8F%91/"/>
+    
+  </entry>
+  
+</feed>
